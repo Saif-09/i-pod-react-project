@@ -1,4 +1,5 @@
 # Ipod React App
+This react app is made by using React class component to learn and practice the working of class component and their various methods.
 Developed an i-pod-inspired UI, integrating functionalities to access i-pod features as a web app.
 Enhanced user experience by providing an interactive menu list and enabling users to play a selection of songs.
 
